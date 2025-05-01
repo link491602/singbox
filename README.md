@@ -26,4 +26,6 @@
 ⚠️ 注意：生成后的配置 JSON 中，有些节点参数不一定能准确匹配到指定 tag，例如“美国”这个 tag，可能会匹配到其他节点 tag 等。
 使用过程中如发现节点不匹配，请自行修改配置文件中的 tag。
 
+使用到的规则以及模板：https://github.com/Toperlock/sing-box-subscribe
+
 ![image](https://github.com/user-attachments/assets/9c32dd09-3201-4e90-9209-842532d89bbf)
