@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "bloodhound.spotify.com",
+        "analytics.google.com"
+      ],
+      "domain_suffix": [
+        "ads.youtube.com",
+        "adservice.google.com",
+        "google-analytics-cn.com",
+        "google-analytics.com",
+        "googleadapis.com",
+        "googleads-cn.com",
+        "googleads.com",
+        "googleadservices-cn.com",
+        "googleadservices.com",
+        "googleadsserving.cn",
+        "googleanalytics.com",
+        "googleoptimize-cn.com",
+        "googleoptimize.com",
+        "googlesyndication-cn.com",
+        "googlesyndication.com",
+        "googletagmanager-cn.com",
+        "googletagmanager.com",
+        "googletagservices-cn.com",
+        "googletagservices.com",
+        "googletraveladservices-cn.com",
+        "googletraveladservices.com",
+        "googlevads-cn.com",
+        "mail-ads.google.com",
+        "marketingplatform.google.com"
+      ],
+      "domain_regex": [
+        "^adservice\\.google\\.([a-z]{2}|com?)(\\.[a-z]{2})?$",
+        "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$"
+      ]
+    }
+  ]
+}
