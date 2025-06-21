@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "clash.razord.top",
+        "yacd.metacubex.one",
+        "yacd.haishan.me",
+        "d.metacubex.one"
+      ],
+      "domain_suffix": [
+        "meijumi.net",
+        "4ksj.com"
+      ]
+    }
+  ]
+}
