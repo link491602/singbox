@@ -1,0 +1,13 @@
+# Merged and deduplicated AdGuard Home filter rules
+
+# From SophiEZzz and anti-AD
+#示例||gjfzpt.cn^
+
+
+
+# 正则表达式，AdGuard Home 
+#示例/^.*pcdn.*youku\.com^
+/^.*gemq888888\.nexusedgeio\.com^
+/^.*2408_[0-9a-f_]\.bytefcdnrd\.com^
+/^.*2409_[0-9a-f_]\.bytefcdnrd\.com^
+/^.*240e_[0-9a-f_]\.bytefcdnrd\.com^
