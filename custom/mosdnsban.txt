@@ -1,5 +1,5 @@
 # Merged and deduplicated AdGuard Home filter rules
 
 # From SophiEZzz and anti-AD
-#示例
+#示例1
 ||pai.com^
