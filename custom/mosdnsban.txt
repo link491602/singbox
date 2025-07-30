@@ -2,5 +2,5 @@
 
 # From SophiEZzz and anti-AD
 #示例1
-||pai.com^
-dfj
+#||sspai.com^
+/.*pai.com/
