@@ -3,3 +3,4 @@
 # From SophiEZzz and anti-AD
 #示例
 #||sspai.com^
+keyword:sspai.com
