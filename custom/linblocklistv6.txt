@@ -1,0 +1,15 @@
+# Merged and deduplicated AdGuard Home filter rules
+
+# From SophiEZzz and anti-AD
+#示例||gjfzpt.cn^
+||do-cdn.appinn.com^
+||img.appinn.com^
+||cdn-cn.xterminal.cn^
+||monknow.com^
+||appinn.com^
+
+# 正则表达式，AdGuard Home 
+#示例/^.*pcdn.*youku\.com^
+# 屏蔽 b站IPv4 编码子域
+#^regexp:^xy\d+x\d+x\d+x\d+xy\.mcdn\.bilivideo\.cn$
+
