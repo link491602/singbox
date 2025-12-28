@@ -1,0 +1,21 @@
+{
+    "version": 2,
+    "rules": [
+        {
+            "domain": [
+                "accounts.google.com",
+                "myaccount.google.com",
+                "clients6.google.com", 
+                "drive.google.com",
+                "docs.google.com",
+                "manager.notebooklm.google.com",
+                "ogim.google.com",
+                "vision-pa.googleapis.com",
+                "geomag-pa.googleapis.com"
+            ],
+            "domain_suffix": [
+                "businessmessages.google.com"
+            ]
+        }
+    ]
+}
