@@ -1,0 +1,33 @@
+{
+    "version": 2,
+    "rules": [
+        {
+            "domain": [
+                "play.google.com",
+                "accounts.google.com",
+                "myaccount.google.com",
+                "clients6.google.com",
+                "signaler-pa.clients6.google.com",
+                "drive.google.com",
+                "content-drive.googleapis.com",
+                "drive-thirdparty.googleusercontent.com",
+                "docs.google.com",
+                "manager.notebooklm.google.com",
+                "ogim.google.com",
+                "vision-pa.googleapis.com",
+                "geomag-pa.googleapis.com",
+                "daily-cloudcode-pa.googleapis.com",
+                "cloudcode-pa.googleapis.com",
+                "antigravity.google"
+            ],
+            "domain_suffix": [
+                "businessmessages.google.com",
+                "goog",
+                "antigravity.google"
+            ],
+            "domain_keyword": [
+                "antigravity"
+            ]
+        }
+    ]
+}
