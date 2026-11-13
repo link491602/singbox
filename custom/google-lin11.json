@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "ai.google.dev",
+        "alkalicore-pa.clients6.google.com",
+        "alkalimakersuite-pa.clients6.google.com",
+        "robinfrontend-pa.clients6.google.com",
+        "notebooklm-pa.clients6.google.com",
+        "webchannel-robinfrontend-pa.googleapis.com",
+        "daily-cloudcode-pa.googleapis.com",
+        "cloudcode-pa.googleapis.com",
+        "optimizationguide-pa.googleapis.com",
+        "vision-pa.googleapis.com",
+        "geomag-pa.googleapis.com",
+        "aida.googleapis.com",
+        "content-drive.googleapis.com",
+        "oauth2.googleapis.com",
+        "waa-pa.googleapis.com",
+        "proactivebackend-pa.googleapis.com",
+        "geller-pa.googleapis.com"
+      ],
+      "domain_suffix": [
+        "play.google.com",
+        "accounts.google.com",
+        "myaccount.google.com",
+        "clients4.google.com",
+        "drive.google.com",
+        "docs.google.com",
+        "notebooklm.google",
+        "notebooklm.google.com",
+        "ogim.google.com",
+        "businessmessages.google.com",
+        "drive-thirdparty.googleusercontent.com",
+        "goog"
+      ],
+      "domain_keyword": [
+        "antigravity"
+      ]
+    }
+  ]
+}
